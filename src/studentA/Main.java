@@ -3,7 +3,8 @@ package studentA;
 public class Main {
     
     public static void main(String[] args) {
-        System.out.println("hello world");
+        String s = "안녕하세요";
+        System.out.println(s);
     }
 }
 
